@@ -29,3 +29,7 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+#　個人的に追加したファイル
+#Renderからデータベースをダウンロードするために必要なurl
+/config/database_url.key
